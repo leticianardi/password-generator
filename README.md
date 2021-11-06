@@ -12,4 +12,4 @@ https://leticianardi.github.io/password-generator/
 
 ## Screenshots
 <img src="Screenshot 1.png">
-<img src="Screenshot 1.png">
+<img src="Screenshot 2.png">
